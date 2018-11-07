@@ -1,0 +1,7 @@
+Public method PostSharp.LoggingAspect.WCF.POC.SampleService..ctor() with arguments  is Executed in 0 seconds
+Private method PostSharp.LoggingAspect.WCF.POC.SampleService.CallSamePrivateMethod() with arguments hi, wcf is Executed in 0 seconds
+Public method PostSharp.LoggingAspect.WCF.POC.SampleService.GetData() with arguments 7 is Executed in 0 seconds
+Public method PostSharp.LoggingAspect.WCF.POC.SampleService..ctor() with arguments  is Executed in 0 seconds
+Public method PostSharp.LoggingAspect.WCF.POC.SampleService.GetDataUsingDataContract() with arguments PostSharp.LoggingAspect.WCF.POC.CompositeType is Executed in 0 seconds
+Public method PostSharp.LoggingAspect.WCF.POC.SampleService..ctor() with arguments  is Executed in 0 seconds
+Public method PostSharp.LoggingAspect.WCF.POC.SampleService.Add() with arguments 9, 4 is Executed in 0 seconds

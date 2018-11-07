@@ -1,0 +1,12 @@
+D:\R&D\Projects\PostSharp.LoggingAspect.WCF.POC\PostSharp.LoggingAspect.WCF.POC\bin\Debug\PostSharp.dll
+D:\R&D\Projects\PostSharp.LoggingAspect.WCF.POC\PostSharp.LoggingAspect.WCF.POC\bin\Debug\PostSharp.xml
+D:\R&D\Projects\PostSharp.LoggingAspect.WCF.POC\PostSharp.LoggingAspect.WCF.POC\obj\Debug\PostSharp.LoggingAspect.WCF.POC.csprojResolveAssemblyReference.cache
+D:\R&D\Projects\PostSharp.LoggingAspect.WCF.POC\PostSharp.LoggingAspect.WCF.POC\bin\Debug\PostSharp.LoggingAspect.WCF.POC.pssym
+D:\R&D\Projects\PostSharp.LoggingAspect.WCF.POC\PostSharp.LoggingAspect.WCF.POC\bin\Debug\PostSharp.LoggingAspect.WCF.POC.dll.config
+D:\R&D\Projects\PostSharp.LoggingAspect.WCF.POC\PostSharp.LoggingAspect.WCF.POC\bin\Debug\PostSharp.LoggingAspect.WCF.POC.dll
+D:\R&D\Projects\PostSharp.LoggingAspect.WCF.POC\PostSharp.LoggingAspect.WCF.POC\bin\Debug\PostSharp.LoggingAspect.WCF.POC.pdb
+D:\R&D\Projects\PostSharp.LoggingAspect.WCF.POC\PostSharp.LoggingAspect.WCF.POC\obj\Debug\PostSharp\touch
+D:\R&D\Projects\PostSharp.LoggingAspect.WCF.POC\PostSharp.LoggingAspect.WCF.POC\obj\Debug\PostSharp\dependencies.txt
+D:\R&D\Projects\PostSharp.LoggingAspect.WCF.POC\PostSharp.LoggingAspect.WCF.POC\obj\Debug\PostSharp.LoggingAspect.WCF.POC.dll
+D:\R&D\Projects\PostSharp.LoggingAspect.WCF.POC\PostSharp.LoggingAspect.WCF.POC\obj\Debug\PostSharp.LoggingAspect.WCF.POC.pdb
+D:\R&D\Projects\PostSharp.LoggingAspect.WCF.POC\PostSharp.LoggingAspect.WCF.POC\obj\Debug\PostSharp\postsharp.app.config

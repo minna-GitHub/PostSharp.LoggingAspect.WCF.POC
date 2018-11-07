@@ -1,0 +1,2 @@
+C:\ProgramData\PostSharp\6.0.29\bin.Release\net471\PostSharp.Compiler.Engine.dll
+D:\R&D\Projects\PostSharp.LoggingAspect.WCF.POC\PostSharp.LoggingAspect.WCF.POC\obj\Debug\PostSharp\postsharp.config

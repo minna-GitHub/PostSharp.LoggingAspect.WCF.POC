@@ -1,0 +1,13 @@
+<publishData>
+  <publishTarget publishUrl="\\192.168.0.50\Share\R&amp;D\">
+    <file relUrl="bin/PostSharp.dll" publishTime="10/26/2018 11:38:02" />
+    <file relUrl="Web.config" publishTime="10/31/2018 11:55:16" />
+    <file relUrl="bin/PostSharp.LoggingAspect.WCF.POC.dll.config" publishTime="10/31/2018 11:55:16" />
+    <file relUrl="bin/PostSharp.LoggingAspect.WCF.POC.dll" publishTime="10/31/2018 16:21:27" />
+    <file relUrl="bin/PostSharp.LoggingAspect.WCF.POC.pdb" publishTime="10/31/2018 16:21:27" />
+    <file relUrl="bin/PostSharp.LoggingAspect.WCF.POC.pssym" publishTime="10/31/2018 16:21:27" />
+    <file relUrl="bin/log.txt" publishTime="10/31/2018 12:34:59" />
+    <file relUrl="bin/PostSharp.xml" publishTime="10/26/2018 11:38:48" />
+    <file relUrl="PostSharp.LoggingAspect.WCF.POC.SampleService.svc" publishTime="10/31/2018 16:21:28" />
+  </publishTarget>
+</publishData>
